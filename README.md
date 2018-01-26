@@ -14,3 +14,4 @@ this works by having the zello channel, play through a transcriber & live stream
 multiple people can talk at the same time, the app will listen & dictate each one individually, chronologically, with options to skip, replay & reply etc.
 
 the app is prone to malfunction if the que of messages is more than the time to consume them so an option to "jump back to real-time" is essential, which will reset all missed messages.
+<img src="http://www.oymyo.com/images/hearingplan.png" width="100%">
