@@ -1,0 +1,14 @@
+To replicate a working model of the application a user would need to have the programme run 
+- a voice recording
+- audio sent to be automatically changed to text
+- text and audio delivered to recipicant
+
+to achieve this easily with existing products would be to have a voice chat application installed on each device along with the dictation app
+
+to do this we could use a PTT app and embed a browser in the background to load a service like dictation.io, which will translate everybodies voice into text
+
+this method is better than plan 1 because it would involve no central server & little admin & also will not have the few seconds TTL delay that the OBS method would.
+
+the data would have to be compressed and dumped onto a server to clear cache etc 
+
+this model would be able to support advertising for revenue as the app is free, or users can pay for extra functions such as radar which would be a model that wouldnt have to run ads
